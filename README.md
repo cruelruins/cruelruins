@@ -1,10 +1,12 @@
 <h1 align="center">cruelruins profile</h1>
 <h3 align="center">oioioi</h3>
 
+<p align="center">
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)
+</p>
 
 <h3 align="left">Projects:</h3>
 SRB2 X-treme <br> <a href="https://gamebanana.com/wips/94155" target="_blank" rel="noreferrer"> <img src="https://images.gamebanana.com/img/ss/wips/689b8034b3cd9.jpg" alt="srb2xtreme" width="200" height="200"/> </a> <br>
