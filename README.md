@@ -19,7 +19,7 @@ Christmas mode <br> <a href="https://gamebanana.com/wips/96508" target="_blank" 
 
 [![Affinity Studio](https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?logo=affinitystudio&logoColor=black)](#)[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)[![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#)[![Krita](https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B)](#)
 
-[![Audacity](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)](#)![FL Studio](https://img.shields.io/badge/FL%20Studio-orange?logo=musicbrainz&logoColor=white)![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-blue)
+[![Audacity](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)](#)![FL Studio](https://img.shields.io/badge/FL%20Studio-orange?logo=musicbrainz&logoColor=white)![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-blue)![Aseprite](https://img.shields.io/badge/Aseprite-white)
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)[![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)](#)[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)[![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)](#)
 
