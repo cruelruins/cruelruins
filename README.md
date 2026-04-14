@@ -1,11 +1,7 @@
 ### 🛠️ Tools & Technologies
 
 #### 🎨 Adobe
-![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000000?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Lightroom Classic](https://img.shields.io/badge/Lightroom%20Classic-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000000?style=for-the-badge&logo=adobe&logoColor=white)![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)![Adobe Lightroom Classic](https://img.shields.io/badge/Lightroom%20Classic-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=white)![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
 #### 💻 Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
