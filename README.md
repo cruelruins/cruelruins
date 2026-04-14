@@ -10,8 +10,7 @@
 SRB2 X-treme <br> <a href="https://gamebanana.com/wips/94155" target="_blank" rel="noreferrer"> <img src="https://images.gamebanana.com/img/ss/wips/689b8034b3cd9.jpg" alt="srb2xtreme" width="200" height="200"/> </a> <br>
 Christmas mode <br> <a href="https://gamebanana.com/wips/96508" target="_blank" rel="noreferrer"> <img src="https://images.gamebanana.com/img/ss/wips/530-90_69601b9b30da2.jpg" alt="christmasmode" width="200" height="200"/> </a>
 
-<p align="left">
-##
+<p align="center">
 </p>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸:
