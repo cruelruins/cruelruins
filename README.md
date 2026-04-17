@@ -51,7 +51,7 @@ Christmas mode
 [![Audacity](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)](#)
 [![FL Studio](https://img.shields.io/badge/FL%20Studio-orange?logo=musicbrainz&logoColor=white)](#)
 [![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-blue)](#)
-[![Reason3](https://img.shields.io/badge/reason3-orange?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA)](#)
+[![Reason3](https://img.shields.io/badge/reason3-orange?style=plastic&logo=data:image/png;base64,)](#)
 <br>
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
