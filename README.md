@@ -3,8 +3,6 @@
 <h1>cruelruins profile</h1>
 <h3>Socials:</h3>
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/qgEhQ3cx)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/yourname)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](http://www.youtube.com/@cruelruins2655)
 
 ---
