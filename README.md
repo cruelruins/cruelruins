@@ -14,7 +14,7 @@ Olen **IT Opiskelija**, joka on erikoistunut luomaan verkkosovelluksia, ohjelmia
 
 ### 🚀 Mitä teen parhaillaan?
 🔭 Työskentelen parhaillaan kouluprojektien parissa.<br>
-🌱 Opettelen parhaillaan **[JS, Python, CSS, PHP]**.<br>
+🌱 Opettelen parhaillaan **JS, Python, CSS, PHP**.<br>
 💬 Kysy minulta rohkeasti.
 
 ### 📫 Ota yhteyttä
