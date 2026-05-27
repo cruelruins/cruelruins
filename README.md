@@ -8,7 +8,7 @@
 ---
 # Hei, olen Miro! 👋
 
-Olen **IT Opiskelija**, joka on erikoistunut luomaan verkkosovelluksia, Ohjelmia, Pelejä. Rakastan haasteiden ratkomista ja puhtaan koodin kirjoittamista.
+Olen **IT Opiskelija**, joka on erikoistunut luomaan verkkosovelluksia, ohjelmia, pelejä. Rakastan haasteiden ratkomista ja puhtaan koodin kirjoittamista.
 
 ---
 
