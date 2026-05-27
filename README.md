@@ -17,7 +17,7 @@ Olen **IT Opiskelija**, joka on erikoistunut luomaan verkkosovelluksia / Ohjelmi
 🌱 Opettelen parhaillaan **[JS, Python, CSS, PHP]**.<br>
 💬 Kysy minulta rohkeasti.
 
-### 📫 Ota yhteyttä
+# 📫 Ota yhteyttä
  🌐 [Omat Verkkosivut / Portfolio](https://www.digikauppis.fi/wb20/)
 
 ---
