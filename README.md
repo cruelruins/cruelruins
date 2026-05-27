@@ -13,9 +13,9 @@ Olen **IT Opiskelija**, joka on erikoistunut luomaan verkkosovelluksia / Ohjelmi
 ---
 
 ### 🚀 Mitä teen parhaillaan?
- 🔭 Työskentelen parhaillaan kouluprojektien parissa.
- 🌱 Opettelen parhaillaan **[JS, Python, CSS, PHP]**.
- 💬 Kysy minulta rohkeasti.
+- 🔭 Työskentelen parhaillaan kouluprojektien parissa.
+- 🌱 Opettelen parhaillaan **[JS, Python, CSS, PHP]**.
+- 💬 Kysy minulta rohkeasti.
 
 ### 📫 Ota yhteyttä
  🌐 [Omat Verkkosivut / Portfolio](https://www.digikauppis.fi/wb20/)
