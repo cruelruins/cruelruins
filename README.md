@@ -8,16 +8,16 @@
 ---
 # Hei, olen Miro! 👋
 
-Olen **IT Opiskelija**, joka on erikoistunut luomaan verkkosovelluksia / Ohjelmia / Pelejä. Rakastan haasteiden ratkomista ja puhtaan koodin kirjoittamista.
+Olen **IT Opiskelija**, joka on erikoistunut luomaan [verkkosovelluksia/Ohjelmia/Pelejä]. Rakastan haasteiden ratkomista ja puhtaan koodin kirjoittamista.
 
 ---
 
-# 🚀 Mitä teen parhaillaan?
+### 🚀 Mitä teen parhaillaan?
 🔭 Työskentelen parhaillaan kouluprojektien parissa.<br>
 🌱 Opettelen parhaillaan **[JS, Python, CSS, PHP]**.<br>
 💬 Kysy minulta rohkeasti.
 
-# 📫 Ota yhteyttä
+### 📫 Ota yhteyttä
  🌐 [Omat Verkkosivut / Portfolio](https://www.digikauppis.fi/wb20/)
 
 ---
