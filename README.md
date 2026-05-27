@@ -6,7 +6,28 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](http://www.youtube.com/@cruelruins2655)
 
 ---
+# Hei, olen Miro! 👋
 
+Olen **IT Opiskelija**, joka on erikoistunut luomaan verkkosovelluksia / Ohjelmia / Pelejä. Rakastan haasteiden ratkomista ja puhtaan koodin kirjoittamista.
+
+---
+
+// ### 🛠️ Teknologiaosaaminen (Tech Stack)
+// * **Kielet:** JavaScript, Python, TypeScript
+// * **Kehykset & Työkalut:** React, Node.js, Git, Docker
+// * **Tietokannat:** PostgreSQL, MongoDB
+
+### 🚀 Mitä teen parhaillaan?
+* 🔭 Työskentelen parhaillaan kouluprojektien parissa.
+* 🌱 Opettelen parhaillaan **[JS, Python, CSS, PHP]**.
+* 💬 Kysy minulta rohkeasti.
+
+// ### 📫 Ota yhteyttä
+// * 💼 [LinkedIn Profeili](LINKKI_TÄHÄN)
+// * 🌐 [Omat Verkkosivut / Portfolio](LINKKI_TÄHÄN)
+// * 📧 [Sähköposti](mailto:sinun.sahkoposti@example.com)
+
+---
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻:
 
 SRB2 X-treme  
