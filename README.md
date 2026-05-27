@@ -12,20 +12,13 @@ Olen **IT Opiskelija**, joka on erikoistunut luomaan verkkosovelluksia / Ohjelmi
 
 ---
 
-// ### 🛠️ Teknologiaosaaminen (Tech Stack)
-// * **Kielet:** JavaScript, Python, TypeScript
-// * **Kehykset & Työkalut:** React, Node.js, Git, Docker
-// * **Tietokannat:** PostgreSQL, MongoDB
-
 ### 🚀 Mitä teen parhaillaan?
 * 🔭 Työskentelen parhaillaan kouluprojektien parissa.
 * 🌱 Opettelen parhaillaan **[JS, Python, CSS, PHP]**.
 * 💬 Kysy minulta rohkeasti.
 
-// ### 📫 Ota yhteyttä
-// * 💼 [LinkedIn Profeili](LINKKI_TÄHÄN)
-// * 🌐 [Omat Verkkosivut / Portfolio](LINKKI_TÄHÄN)
-// * 📧 [Sähköposti](mailto:sinun.sahkoposti@example.com)
+### 📫 Ota yhteyttä
+* 🌐 [Omat Verkkosivut / Portfolio](https://www.digikauppis.fi/wb20/)
 
 ---
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻:
