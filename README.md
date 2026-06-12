@@ -18,7 +18,7 @@ Olen **IT Opiskelija**, joka on erikoistunut luomaan verkkosovelluksia, ohjelmia
 💬 Kysy minulta rohkeasti.
 
 ### 📫 Ota yhteyttä
- 🌐 [Omat Verkkosivut / Portfolio](https://www.digikauppis.fi/wb20/)
+ 🌐 [Omat Verkkosivut / Portfolio]()
 
 ---
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻:
