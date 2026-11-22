@@ -6,19 +6,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](http://www.youtube.com/@cruelruins2655)
 
 ---
-# Hei, olen Miro! 👋
-
-Olen **IT Opiskelija**, joka on erikoistunut luomaan verkkosovelluksia, ohjelmia, pelejä. Rakastan haasteiden ratkomista ja puhtaan koodin kirjoittamista.
-
----
-
-### 🚀 Mitä teen parhaillaan?
-🔭 Työskentelen parhaillaan kouluprojektien parissa.<br>
-🌱 Opettelen parhaillaan **JS, Python, CSS, PHP**.<br>
-💬 Kysy minulta rohkeasti.
-
-### 📫 Ota yhteyttä
- 🌐 [Omat Verkkosivut / Portfolio]()
+# Hei! 👋
 
 ---
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻:
